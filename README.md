@@ -1,3 +1,9 @@
+### O projeto pode ser visualizado no link abaixo
+
+https://cinepipoca.rudolf.dev/
+
+### Regras do desafio abaixo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Instruções para o desafio
